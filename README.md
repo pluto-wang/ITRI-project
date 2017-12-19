@@ -23,3 +23,8 @@
 3. Game Theory
 4. Fuzzy
 5. Convex Optimization
+6. Genetic Algorithm
+-Survey
+1. shannon's capacity
+2. Smart Antenna
+3. CCO
